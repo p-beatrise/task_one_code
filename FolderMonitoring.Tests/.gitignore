@@ -1,0 +1,11 @@
+bin/
+obj/
+TestResults/
+coverage*/
+*.trx
+*.user
+*.suo
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
